@@ -1,0 +1,5 @@
+[
+    {"cancha": 1, "dia": "Lunes", "horario": "11:00" },
+    {"cancha": 2, "dia": "Martes", "horario": "12:00" },
+    {"cancha": 3, "dia": "Jueves", "horario": "13:00" }
+]
